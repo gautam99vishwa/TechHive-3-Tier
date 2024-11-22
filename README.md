@@ -26,9 +26,8 @@ The 3-tier architecture separates the application into three distinct layers:
 
 Below is a visual representation of the architecture:
 
-![Architecture Diagram](![image](https://github.com/user-attachments/assets/af5722da-daa8-4338-93d3-eb862d396bf2)
-)
-![image](https://github.com/user-attachments/assets/ba8ca6ed-f243-420a-938e-c5469e28a976)
+![Architecture Diagram](data/architecture-diagram.png)
+
 
 
 ---
